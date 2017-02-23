@@ -1,0 +1,17 @@
+.wrapper{
+   width:600px;
+   background:#eee;
+   margin: 0 auto 0 auto;
+}
+.heading{
+	height=100px;
+	background:green;
+	padding: 20px;
+	text-align: center;
+	}
+
+.navigation{
+	height: 50px
+	background:light green;
+}
+
